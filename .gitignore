@@ -1,3 +1,4 @@
-/node_modules
-/.wwebjs_cache
-/pnpm-lock.yaml
+node_modules
+.wwebjs_cache
+.wwebjs_auth
+pnpm-lock.yaml
