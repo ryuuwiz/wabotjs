@@ -1,0 +1,16 @@
+{
+  "name": "wabotjs",
+  "version": "1.0.0",
+  "description": "Whatsapp Bot using whatsapp-web-js",
+  "main": "./src/index.ts",
+  "scripts": {
+    "dev": "tsx watch ./src/index.ts"
+  },
+  "author": "ryuuwiz",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3"
+  }
+}
